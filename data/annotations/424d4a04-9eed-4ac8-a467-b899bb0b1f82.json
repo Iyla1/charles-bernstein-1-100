@@ -2,27 +2,6 @@
   "annotations": [
     {
       "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Microphone is brushed"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Technical Sounds",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "8f3f6742-f082-45d0-bf4d-12096681497c"
-    },
-    {
-      "start_time": 0,
       "end_time": 4,
       "annotation": [
         {

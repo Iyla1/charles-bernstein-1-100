@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Iyla1",
+    "is_private": false,
+    "title": "Charles Bernstein's \"1-100\" - Iyla Cheung ENGl 483",
+    "description": "This is Iyla Cheung's AVAnnotate Project for ENGL 483 B1 Winter 2025. ",
+    "language": "en",
+    "slug": "charles-bernstein-1-100",
+    "creator": "Iyla1",
+    "authors": "Iyla Jewel Cheung",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-19T02:08:57.655Z",
+    "updated_at": "2025-03-19T02:08:57.655Z"
   }
 }

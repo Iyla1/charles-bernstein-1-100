@@ -1,5 +1,446 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone is brushed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "8f3f6742-f082-45d0-bf4d-12096681497c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lively music is played in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "a6485de0-0f83-455d-bdec-85792192d4bf"
+    },
+    {
+      "start_time": 4,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One, two, three, four, five, six, seven, eight, nine, ten"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "729aee28-c4bd-4557-a18c-c4724f1f64ec"
+    },
+    {
+      "start_time": 4,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Increases in intensity of pitch, amplitude, and tempo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "276131ff-6515-4ee1-92f1-4e82ba9a9e73"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crashing sounds between voicings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "28599727-b21d-4298-82a6-0c82a3ce6d7b"
+    },
+    {
+      "start_time": 4,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echoes following voicings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "8983b398-831b-4ab5-8968-e3a62a4268b5"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1407cf2e-413a-4cb1-a846-012bba4ef891"
+    },
+    {
+      "start_time": 13,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b9b10928-9445-4cc8-b74d-91162900fb37"
+    },
+    {
+      "start_time": 13,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow pace of voicing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "49da6dec-12ce-461c-adc4-12f726fdf995"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certain, unquestioning tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "a8614803-4e8a-45a1-bce3-84023ddc7e4c"
+    },
+    {
+      "start_time": 17,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lilting tone, even pacing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ba1d562a-2b73-4e1d-aebf-e7ae69fe4b7b"
+    },
+    {
+      "start_time": 26,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1d97ccbf-9d7f-4198-8153-419955a44aa7"
+    },
+    {
+      "start_time": 27,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "44c839d2-fe00-4f78-a302-0ab4dc178474"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sudden increase in volume, enthusiasm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "30dd6fdc-f1cc-45a1-8ed9-bb0fd2e550a4"
+    },
+    {
+      "start_time": 30,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "6a1331b6-489f-45d5-97a9-2a5877d37f3b"
+    },
+    {
+      "start_time": 31,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Progresses from slow to fast"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "21e52988-d12b-4736-a12e-74cf385492c0"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Increse in volume"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "249b1ca1-343f-49f6-80eb-3c5fd1f6f9cb"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "99cbc803-0688-4120-9941-b3d4a679d0a5"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elongation of pronunciation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "2810e997-ace2-4823-af73-162273b454ec"
+    },
+    {
+      "start_time": 41,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Increase in volume, conveying finality"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "73c92c30-7209-4f42-9dc0-2008092aef5c"
+    }
+  ],
   "set": "Default",
   "event_id": "c81520bf-32c4-4435-8bbd-4c180af2a8f0",
   "source_id": "d0b8a7d8-657a-4fc7-a4ed-0834c7f7e6a4"

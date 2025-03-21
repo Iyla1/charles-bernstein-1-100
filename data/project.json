@@ -8,12 +8,12 @@
   "project": {
     "github_org": "Iyla1",
     "is_private": false,
-    "title": "Charles Bernstein's \"1-100\" - Iyla Cheung ENGl 483",
-    "description": "This is Iyla Cheung's AVAnnotate Project for ENGL 483 B1 Winter 2025. ",
+    "title": "\"1-100\" by Charles Bernstein - Iyla Cheung",
+    "description": "This project provides annotations of Charles Bernstein's performance of \"1-100\" (1969, remastered 2009). ",
     "language": "en",
     "slug": "charles-bernstein-1-100",
     "creator": "Iyla1",
-    "authors": "Iyla Jewel Cheung",
+    "authors": "Iyla Cheung",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -108,7 +108,7 @@
       ]
     },
     "created_at": "2025-03-19T02:08:57.655Z",
-    "updated_at": "2025-03-21T01:53:49.113Z",
+    "updated_at": "2025-03-21T02:17:29.345Z",
     "generate_pages_site": false
   },
   "is_private": false

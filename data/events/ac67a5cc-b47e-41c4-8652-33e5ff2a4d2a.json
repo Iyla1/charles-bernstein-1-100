@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "e252c76c-d7d3-4497-b06f-d0d0a4ddf477": {
+      "label": "\"1-100\"",
+      "is_offline": false,
+      "file_url": "https://media.sas.upenn.edu/pennsound/authors/Bernstein/Class/Bernstein-Charles_02_1-100_1969-remastered.mp3",
+      "duration": 195
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Bernstein, Charles. “1-100.” (1969, remastered 2009) 3:16",
+  "item_type": "Audio",
+  "label": "\"1-100\"",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is Charles Bernstein's performance of the numbers \"1-100\"."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-21T02:20:36.805Z",
+  "created_by": "Iyla1",
+  "updated_at": "2025-03-21T02:20:36.805Z",
+  "updated_by": "Iyla1"
+}

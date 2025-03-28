@@ -1332,27 +1332,6 @@
       "uuid": "43f6601e-347a-45a6-8aed-0701e646bedd"
     },
     {
-      "start_time": 164,
-      "end_time": 164,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Quick inhalation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "e0773ed2-7069-439e-aef0-0af9be4540b9"
-    },
-    {
       "start_time": 167,
       "end_time": 168,
       "annotation": [

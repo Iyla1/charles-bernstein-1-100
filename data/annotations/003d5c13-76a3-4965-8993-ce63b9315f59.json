@@ -1077,27 +1077,6 @@
     },
     {
       "start_time": 157,
-      "end_time": 195,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ninety-one, ninety-two, ninety-three, ninety-four, ninety-five, ninety-six, ninety-seven, ninety-eight, ninety-nine, a hundred"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "afd025a5-63dc-430c-8184-6e6189e2f6a2"
-    },
-    {
-      "start_time": 157,
       "end_time": 192,
       "annotation": [
         {

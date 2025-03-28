@@ -1332,27 +1332,6 @@
       "uuid": "43f6601e-347a-45a6-8aed-0701e646bedd"
     },
     {
-      "start_time": 176,
-      "end_time": 176,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Small inhalation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "14ab7c77-f030-4962-baa7-3b009c1a8c9f"
-    },
-    {
       "start_time": 180,
       "end_time": 181,
       "annotation": [

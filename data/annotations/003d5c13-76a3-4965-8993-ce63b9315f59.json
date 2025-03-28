@@ -171,27 +171,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "ee8650ee-c671-45ed-bb31-d7fd286a2c55"
-    },
-    {
-      "start_time": 13,
-      "end_time": 25,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Slow pace of voicing, background music"
             }
           ]

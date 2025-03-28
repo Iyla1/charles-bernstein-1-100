@@ -776,27 +776,6 @@
     },
     {
       "start_time": 68,
-      "end_time": 86,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Fifty-one, fifty-two, fifty-three, fifty-four, fifty-five, fifty-six, fifty-seven, fifty-eight, fifty-nine, sixty"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "eacd0a95-8565-4c95-89ff-57dbe1745102"
-    },
-    {
-      "start_time": 68,
       "end_time": 74,
       "annotation": [
         {

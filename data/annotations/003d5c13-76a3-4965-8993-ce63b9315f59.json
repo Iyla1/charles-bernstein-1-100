@@ -50,7 +50,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Lively music is played in the background"
+              "text": "Lively music and faint indistinct talking in the background"
             }
           ]
         }
@@ -58,6 +58,10 @@
       "tags": [
         {
           "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
           "category": "Extra-Poetic Sounds"
         }
       ],

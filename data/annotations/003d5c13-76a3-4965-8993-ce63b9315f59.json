@@ -550,27 +550,6 @@
     },
     {
       "start_time": 52,
-      "end_time": 67,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Forty-one, forty-two,  forty-three,  forty-four, forty-five, forty-six, forty-seven, forty-eight, forty-nine, fifty"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "6633713e-1074-4296-a80f-160f9996ecbe"
-    },
-    {
-      "start_time": 52,
       "end_time": 58,
       "annotation": [
         {

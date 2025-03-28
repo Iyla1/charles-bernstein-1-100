@@ -265,27 +265,6 @@
     },
     {
       "start_time": 27,
-      "end_time": 41,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "01983558-574f-4b77-b52d-a33b6622d590"
-    },
-    {
-      "start_time": 27,
       "end_time": 30,
       "annotation": [
         {

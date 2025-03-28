@@ -440,27 +440,6 @@
       "uuid": "24ea8c59-de1b-4dfb-823f-26f1c3acb594"
     },
     {
-      "start_time": 43,
-      "end_time": 50,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Thirty-one, two, three, four, five, six, seven, eight, nine, forty"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "bd2bf49a-f5f8-4e4e-bfc8-ff4dc933500c"
-    },
-    {
       "start_time": 44,
       "end_time": 45,
       "annotation": [

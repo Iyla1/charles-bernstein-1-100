@@ -1283,27 +1283,6 @@
     },
     {
       "start_time": 157,
-      "end_time": 157,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Large, quick inhalation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "2170fe4f-1a60-44ca-8f77-dcf469561ee2"
-    },
-    {
-      "start_time": 157,
       "end_time": 195,
       "annotation": [
         {

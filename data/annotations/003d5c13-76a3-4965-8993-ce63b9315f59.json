@@ -23,27 +23,6 @@
     },
     {
       "start_time": 0,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Faint, indistinct talking in the background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "54787c9d-8906-409f-91fe-9324fa99e1cc"
-    },
-    {
-      "start_time": 0,
       "end_time": 5,
       "annotation": [
         {

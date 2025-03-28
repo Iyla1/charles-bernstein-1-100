@@ -767,27 +767,6 @@
       "uuid": "c1b1cc7b-5737-43a8-a865-d4c610d39c3e"
     },
     {
-      "start_time": 61,
-      "end_time": 62,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Exhalation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "fe045c2a-3c24-4916-8e93-99e408cf5d16"
-    },
-    {
       "start_time": 63,
       "end_time": 63,
       "annotation": [

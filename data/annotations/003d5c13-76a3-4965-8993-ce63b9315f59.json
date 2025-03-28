@@ -850,27 +850,6 @@
       "uuid": "50535300-fb33-4f9a-bded-cdeca0b885e1"
     },
     {
-      "start_time": 87,
-      "end_time": 105,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Sixty-one, sixty-two, sixty-three, sixty-four, sixty-five, sixty-six, sixty-seven, sixty-eight, sixty-nine, seventy"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "0170e206-dfed-4eeb-ad37-953ec104afbf"
-    },
-    {
       "start_time": 90,
       "end_time": 104,
       "annotation": [

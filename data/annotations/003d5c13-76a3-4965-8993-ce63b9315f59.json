@@ -54,27 +54,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "One, two, three, four, five, six, seven, eight, nine, ten"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "c7751a1f-e32c-4da6-8e07-f07309b49536"
-    },
-    {
-      "start_time": 4,
-      "end_time": 12,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Increases in intensity of pitch, amplitude, and tempo"
             }
           ]

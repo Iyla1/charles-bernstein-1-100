@@ -625,27 +625,6 @@
       "uuid": "31d68334-e1e1-4889-a8eb-c4b15808a7be"
     },
     {
-      "start_time": 49,
-      "end_time": 49,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Inhalation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "92c7ab6c-8a71-4f24-8367-aa73308481ed"
-    },
-    {
       "start_time": 50,
       "end_time": 52,
       "annotation": [

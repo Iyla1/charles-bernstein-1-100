@@ -1332,27 +1332,6 @@
       "uuid": "43f6601e-347a-45a6-8aed-0701e646bedd"
     },
     {
-      "start_time": 185,
-      "end_time": 192,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Dramatic elongation of pronunciation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "b52e9ac1-4f4d-4de9-b701-2f0a7c6b619c"
-    },
-    {
       "start_time": 193,
       "end_time": 194,
       "annotation": [

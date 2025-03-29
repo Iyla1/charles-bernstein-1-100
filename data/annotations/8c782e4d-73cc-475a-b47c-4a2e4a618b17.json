@@ -1016,7 +1016,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Pause and inhalation"
+              "text": "Pause"
             }
           ]
         }
@@ -1025,10 +1025,6 @@
         {
           "tag": "Caesura",
           "category": "Form"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "bdbd94e7-99a8-4483-b464-ce571ed0dc05"

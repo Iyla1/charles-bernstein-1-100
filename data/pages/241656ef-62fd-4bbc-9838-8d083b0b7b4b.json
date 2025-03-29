@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-29T00:11:41.343Z",
+  "created_by": "Iyla1",
+  "title": "\"1-100\"",
+  "slug": "1-100",
+  "updated_at": "2025-03-29T00:11:41.343Z",
+  "updated_by": "Iyla1",
+  "parent": "e4596a52-8a46-463f-b436-b642fd996500",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "49547a74-d4f2-4fbb-b2cc-bea76ee546b9"
+  }
+}
